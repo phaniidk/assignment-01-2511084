@@ -1,1 +1,36 @@
-
+[
+  {
+    "product_id": "E1",
+    "name": "Laptop",
+    "category": "Electronics",
+    "price": 60000,
+    "brand": "Dell",
+    "specs": {
+      "warranty": "2 years",
+      "voltage": "220V"
+    },
+    "features": ["SSD", "16GB RAM", "Intel i7"]
+  },
+  {
+    "product_id": "C1",
+    "name": "T-Shirt",
+    "category": "Clothing",
+    "price": 1000,
+    "brand": "Nike",
+    "sizes": ["S", "M", "L"],
+    "material": "Cotton",
+    "colors": ["Red", "Blue", "Black"]
+  },
+  {
+    "product_id": "G1",
+    "name": "Milk",
+    "category": "Groceries",
+    "price": 50,
+    "expiry_date": "2024-12-01",
+    "nutrition": {
+      "calories": 150,
+      "fat": "5g"
+    },
+    "storage": "Keep refrigerated"
+  }
+]
